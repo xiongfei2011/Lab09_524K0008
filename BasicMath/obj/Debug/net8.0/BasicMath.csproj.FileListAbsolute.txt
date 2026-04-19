@@ -1,0 +1,14 @@
+F:\SE_Lab\Lab09_524K0008\BasicMath\bin\Debug\net8.0\BasicMath.exe
+F:\SE_Lab\Lab09_524K0008\BasicMath\bin\Debug\net8.0\BasicMath.deps.json
+F:\SE_Lab\Lab09_524K0008\BasicMath\bin\Debug\net8.0\BasicMath.runtimeconfig.json
+F:\SE_Lab\Lab09_524K0008\BasicMath\bin\Debug\net8.0\BasicMath.dll
+F:\SE_Lab\Lab09_524K0008\BasicMath\bin\Debug\net8.0\BasicMath.pdb
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfoInputs.cache
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfo.cs
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\BasicMath.csproj.CoreCompileInputs.cache
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\BasicMath.dll
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\refint\BasicMath.dll
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\BasicMath.pdb
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\BasicMath.genruntimeconfig.cache
+F:\SE_Lab\Lab09_524K0008\BasicMath\obj\Debug\net8.0\ref\BasicMath.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SE_Lab\\Lab09_524K0008\\LoginAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{912C64CE-069E-4A1A-8C66-D1315E57085B}|LoginAutomation.csproj|f:\\se_lab\\lab09_524k0008\\loginautomation\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912C64CE-069E-4A1A-8C66-D1315E57085B}|LoginAutomation.csproj|solutionrelative:logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912C64CE-069E-4A1A-8C66-D1315E57085B}|LoginAutomation.csproj|f:\\se_lab\\lab09_524k0008\\loginautomation\\allureconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{912C64CE-069E-4A1A-8C66-D1315E57085B}|LoginAutomation.csproj|solutionrelative:allureconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "allureConfig.json",
+              "DocumentMoniker": "F:\\SE_Lab\\Lab09_524K0008\\LoginAutomation\\allureConfig.json",
+              "RelativeDocumentMoniker": "allureConfig.json",
+              "ToolTip": "F:\\SE_Lab\\Lab09_524K0008\\LoginAutomation\\allureConfig.json",
+              "RelativeToolTip": "allureConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T12:09:38.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "F:\\SE_Lab\\Lab09_524K0008\\LoginAutomation\\LoginTests.cs",
+              "RelativeDocumentMoniker": "LoginTests.cs",
+              "ToolTip": "F:\\SE_Lab\\Lab09_524K0008\\LoginAutomation\\LoginTests.cs",
+              "RelativeToolTip": "LoginTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:41:46.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

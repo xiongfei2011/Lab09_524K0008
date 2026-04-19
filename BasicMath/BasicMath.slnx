@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../BasicMathTests/BasicMathTests.csproj" Id="1bbc6b89-e3f4-4afd-9494-cdc0c80799ff" />
+  <Project Path="BasicMath.csproj" />
+</Solution>

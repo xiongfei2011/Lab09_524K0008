@@ -1,0 +1,14 @@
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\bin\Debug\net8.0\BankAccountApp.exe
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\bin\Debug\net8.0\BankAccountApp.deps.json
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\bin\Debug\net8.0\BankAccountApp.runtimeconfig.json
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\bin\Debug\net8.0\BankAccountApp.dll
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\bin\Debug\net8.0\BankAccountApp.pdb
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\BankAccountApp.AssemblyInfoInputs.cache
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\BankAccountApp.AssemblyInfo.cs
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\BankAccountApp.csproj.CoreCompileInputs.cache
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\BankAccountApp.dll
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\refint\BankAccountApp.dll
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\BankAccountApp.pdb
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\BankAccountApp.genruntimeconfig.cache
+F:\SE_Lab\Lab09_524K0008\BankAccountApp\obj\Debug\net8.0\ref\BankAccountApp.dll
